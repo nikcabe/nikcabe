@@ -25,4 +25,4 @@
  
 # 	📧 e-mail
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjkkgh123@gmail.com)](mailto:jjkkgh123@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jjkkgh123@naver.com)](mailto:jjkkgh123@naver.com)
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jjkkgh123@naver.com)](mailto:jjkkgh123@naver.com)  
